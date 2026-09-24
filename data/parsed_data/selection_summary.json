@@ -1,0 +1,24 @@
+{
+  "input_file": "E:\\L1_label_sensitivity\\data\\raw_data\\B.dev.gold.bea19.m2",
+  "annotator_id": "0",
+  "seed": 42,
+  "minimum_tokens": 5,
+  "maximum_tokens": 25,
+  "requested_sample_size": 150,
+  "requested_correct_share": 0.2,
+  "parsed_blocks": 1290,
+  "eligible_total": 963,
+  "eligible_correct": 277,
+  "eligible_incorrect": 686,
+  "automatically_excluded_total": 327,
+  "sample_total": 150,
+  "sample_correct": 30,
+  "sample_incorrect": 120,
+  "desired_correct": 30,
+  "desired_incorrect": 120,
+  "outputs": {
+    "candidate_sentences": "E:\\L1_label_sensitivity\\data\\parsed_data\\candidate_sentences.csv",
+    "manual_review_blind": "E:\\L1_label_sensitivity\\data\\parsed_data\\manual_review_blind.csv",
+    "excluded_sentences": "E:\\L1_label_sensitivity\\data\\parsed_data\\excluded_sentences.csv"
+  }
+}
