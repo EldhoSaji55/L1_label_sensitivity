@@ -1,0 +1,5 @@
+﻿comparison_category,description,count,percent
+both_models_error,Neither model exactly matches the gold correction,136,56.67
+qwen_only_error,Only Qwen differs from the gold correction,32,13.33
+gemma_only_error,Only Gemma differs from the gold correction,29,12.08
+both_models_match,Both models exactly match the gold correction,43,17.92

@@ -1,0 +1,3 @@
+﻿model,total_conditions,exact_gold_matches,non_gold_matches,non_gold_match_rate_percent
+Qwen,240,72,168,70.0
+Gemma,240,75,165,68.75

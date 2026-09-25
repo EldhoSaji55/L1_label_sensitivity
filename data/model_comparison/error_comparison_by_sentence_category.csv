@@ -1,0 +1,4 @@
+﻿recommended_category,total_conditions,both_models_error,qwen_only_error,gemma_only_error,both_models_match,qwen_total_non_gold_match,gemma_total_non_gold_match
+ambiguous_error,40,36,2,1,1,38,37
+correct,40,17,9,1,13,26,18
+clear_error,160,83,21,27,29,104,110

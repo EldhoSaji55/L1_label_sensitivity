@@ -1,0 +1,5 @@
+﻿language,total_conditions,both_models_error,qwen_only_error,gemma_only_error,both_models_match,qwen_total_non_gold_match,gemma_total_non_gold_match
+Arabic,60,35,10,5,10,45,40
+German,60,32,10,7,11,42,39
+Malayalam,60,35,6,9,10,41,44
+Unknown,60,34,6,8,12,40,42
