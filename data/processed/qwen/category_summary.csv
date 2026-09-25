@@ -1,0 +1,4 @@
+﻿recommended_category,total,sensitive,sensitivity_rate_percent
+clear_error,40,15,37.5
+ambiguous_error,10,7,70.0
+correct,10,4,40.0
